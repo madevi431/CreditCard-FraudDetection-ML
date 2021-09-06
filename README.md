@@ -1,1 +1,6 @@
-# CreditCard-FraudDetection-ML
+## Title: Credit card fraud detection using Machine Learning 
+Environment: Python3, Jupyter 
+Used Libraries: Pandas,Numpy,Matplotlib,Seaborn,sklearn
+Used Algorithms in ML:Logistic Regression,SVM Classifier,,Random Forest Classifier,,Decision Tree Classifier,Knn Classifier.
+Description: 
+Credit card fraud detection is presently the most frequently occurring problem in the present world. This is due to the rise in both online transactions and e-commerce platforms. Credit card fraud generally happens when the card was stolen for any unauthorized purposes or even when the fraudster uses the credit card information for his use. In the present world, we are facing a lot of credit card problems. To detect fraudulent activities the credit card fraud detection system was introduced. This project aims to focus mainly on machine learning algorithms. The algorithms used are the random forest algorithm and the Adaboost algorithm. The results of the two algorithms are based on accuracy, precision, recall, and F1-score. The ROC curve is plotted based on the confusion matrix. The Logistic Regressor  algorithm are compared and the algorithm that has the greatest accuracy, precision, recall, and F1-score is considered as the best algorithm that is used to detect fraud. 
